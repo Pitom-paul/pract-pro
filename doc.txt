@@ -1,0 +1,268 @@
+💻 Project Name
+
+TechNova Electronics Store
+
+🏢 Company Information
+
+Company Name: TechNova Electronics
+
+Tagline: Your Trusted Technology Partner
+
+Founded: 2021
+
+Location: Agrabad, Chattogram, Bangladesh
+
+Email: info@technova.com
+
+Phone: +880 1712-345678
+
+Working Hours:
+
+Monday - Saturday
+9:00 AM – 9:00 PM
+Sunday: Closed
+🧭 Navigation
+Home
+About
+Products
+Categories
+Offers
+Reviews
+FAQ
+Contact
+🏠 Hero Section
+Heading
+
+Welcome to TechNova Electronics
+
+Description
+
+We provide high-quality laptops, smartphones, gaming accessories, and computer components at affordable prices. Our goal is to deliver genuine products with excellent customer service.
+
+Button:
+
+Shop Now
+Contact Us
+📖 About Us
+
+TechNova Electronics started its journey in 2021. We specialize in laptops, smartphones, gaming accessories, monitors, and computer components. Customer satisfaction and genuine products are our highest priorities.
+
+🛍 Categories
+Laptops
+Smartphones
+Monitors
+Keyboards
+Mouse
+Headphones
+Gaming Accessories
+Storage Devices
+⭐ Featured Products
+Product 1
+
+Name:
+Dell Inspiron 15
+
+Price:
+85,000 Tk
+
+Availability:
+In Stock
+
+Description:
+15.6-inch display, Intel Core i5, 16GB RAM, 512GB SSD.
+
+Product 2
+
+Name:
+Samsung Galaxy A56
+
+Price:
+42,000 Tk
+
+Availability:
+In Stock
+
+Description:
+6.7-inch AMOLED display, 50MP camera, 5000mAh battery.
+
+Product 3
+
+Name:
+Logitech G102 Mouse
+
+Price:
+2,000 Tk
+
+Availability:
+In Stock
+
+Description:
+Gaming mouse with RGB lighting.
+
+Product 4
+
+Name:
+Redragon K617 Keyboard
+
+Price:
+4,500 Tk
+
+Availability:
+Limited Stock
+
+Description:
+Compact mechanical gaming keyboard.
+
+💰 Today's Offers
+Product	Original Price	Discount	Final Price
+Dell Inspiron 15	90,000 Tk	5%	85,500 Tk
+Samsung Galaxy A56	45,000 Tk	7%	41,850 Tk
+Logitech G102	2,500 Tk	20%	2,000 Tk
+Redragon K617	5,000 Tk	10%	4,500 Tk
+📊 Product Comparison Table
+Product	Warranty	Rating	Stock
+Dell Inspiron 15	2 Years	⭐⭐⭐⭐⭐	Available
+Samsung Galaxy A56	1 Year	⭐⭐⭐⭐☆	Available
+Logitech G102	1 Year	⭐⭐⭐⭐⭐	Available
+Redragon K617	1 Year	⭐⭐⭐⭐☆	Limited
+🖼 Product Gallery
+
+Gallery Images:
+
+Laptop
+Smartphone
+Gaming Keyboard
+Gaming Mouse
+Monitor
+Headphones
+🎵 Audio Section
+
+Heading:
+Store Announcement
+
+Description:
+Listen to our latest promotional announcement.
+
+🎥 Video Section
+
+Heading:
+Product Showcase
+
+Description:
+Watch our latest product demonstration.
+
+⭐ Customer Reviews
+Tanvir Ahmed
+
+⭐⭐⭐⭐⭐
+
+Excellent customer service and fast delivery.
+
+Nusrat Jahan
+
+⭐⭐⭐⭐
+
+Original products with reasonable prices.
+
+Rakib Hasan
+
+⭐⭐⭐⭐⭐
+
+Highly recommended for gaming accessories.
+
+📝 Order Form
+
+Collect the following information:
+
+Full Name
+Email Address
+Phone Number
+Product Name
+Product Category
+Quantity
+Delivery Address
+Payment Method
+Cash on Delivery
+bKash
+Nagad
+Card Payment
+Delivery Date
+Additional Notes
+
+Buttons:
+
+Place Order
+Reset
+❓ FAQ
+Do you sell original products?
+
+Yes, all our products are 100% genuine.
+
+Do you offer home delivery?
+
+Yes, we deliver all over Bangladesh.
+
+What payment methods do you accept?
+
+Cash on Delivery, bKash, Nagad, and Card.
+
+How can I contact customer support?
+
+You can call us or email us anytime during working hours.
+
+📞 Contact
+
+Address
+
+123 Agrabad Commercial Area
+
+Chattogram 4100
+
+Bangladesh
+
+Phone
+
++880 1712-345678
+
+Email
+
+info@technova.com
+
+Website
+
+www.technova.com
+
+📍 Social Media
+Facebook
+Instagram
+LinkedIn
+YouTube
+👣 Footer
+
+© 2026 TechNova Electronics. All Rights Reserved.
+
+
+
+
+
+TechNova Electronics Store (HTML Only)
+
+এটি একটি বড় প্রজেক্ট হবে যেখানে প্রায় সব HTML5 ট্যাগ ব্যবহার করতে পারবে।
+
+Sections:
+
+Header
+Navigation
+Hero Banner
+Categories
+Featured Products
+Product Comparison Table
+Today's Deals
+Product Gallery
+Audio (Store Announcement)
+Video (Product Demo)
+Customer Reviews
+Order Form
+FAQ
+Contact
+Footer
